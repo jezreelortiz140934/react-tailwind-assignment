@@ -2,7 +2,7 @@ function Header() {
   return (
     <header className="bg-blue-500 text-white p-4 flex items-center space-x-4">
       <img
-        src="https://via.placeholder.com/50"
+        src=""
         alt="Profile"
         className="rounded-full"
       />
@@ -14,4 +14,5 @@ function Header() {
     </header>
   );
 }
+
 export default Header;
